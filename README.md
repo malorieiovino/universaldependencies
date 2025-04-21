@@ -59,3 +59,7 @@ This research is being submitted as a short paper to the 8th Universal Dependenc
 ## Requirements
 
 See requirements.txt for Python dependencies.
+
+## Acknowledgments
+
+This work relies on the Universal Dependencies treebanks and framework. I acknowledge the contributions of the UD community in creating and maintaining these valuable resources.
