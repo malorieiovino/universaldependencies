@@ -33,6 +33,9 @@ The analysis examines how typological differences impact parsing accuracy, with 
 - **/code**: Contains the Python implementation of the parsing error analysis
 - **/results**: CSV files with detailed error statistics by language and dependency type
 - **/visualizations**: Plots showing error patterns and cross-linguistic comparisons
+- **/latex**: - **latex/**: LaTeX document files for the research paper
+  - `main.tex`: Primary LaTeX source file
+  - `references.bib`: Bibliography file
 - **requirements.txt**: Required Python packages
 
 ## Key Visualization 
