@@ -35,6 +35,12 @@ The analysis examines how typological differences impact parsing accuracy, with 
 - **/visualizations**: Plots showing error patterns and cross-linguistic comparisons
 - **requirements.txt**: Required Python packages
 
+## Key Visualization 
+
+<img src="visualizations/heatmap.png" alt="Attachment Error Rates by Dependency Type Across Languages" width="600"/>
+
+*This heatmap shows error rates for common dependency relations across English, Finnish, Arabic, and Chinese. Darker colors indicate higher error rates. Note the universal difficulty of coordination (conj) and the clear gradient in error rates from English to Chinese.*
+
 ## Methodology
 
 The analysis uses the Stanza neural parser (Qi et al., 2020) on standard test sets from Universal Dependencies treebanks. The methodology focuses on:
