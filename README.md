@@ -1,6 +1,6 @@
 # Cross-Linguistic Analysis of Dependency Parsing Errors
 
-This repository contains code and data for a research project investigating dependency parsing errors across typologically diverse languages using the Universal Dependencies framework.
+This repository contains code, latex, and data for a research project investigating dependency parsing errors across typologically diverse languages using the Universal Dependencies framework.
 
 ## Research Overview
 
